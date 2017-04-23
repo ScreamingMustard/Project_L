@@ -1,7 +1,7 @@
 <!DOCTYPE>
 <html>
 <body> 
-<title> </title>
+<title> Stress </title>
 <h1> </h1>
 <p> Just like adults teens suffer from stress as well. At least nine out of ten tens feel stressed everyday! That's a lot.<br> <br> 
 <h1> Why So Stressed Out?
@@ -19,7 +19,7 @@
 </ul>
 </body>
 </html>
-
+<!---
 Bullying and Cyberbullying are the same act but are preformed differently. Cyberbullying is the act of bullying someone behind a screen. Saying anything mean, offensive, racist, etc; is considered cyberbullying. Some times the cyberbully will continually harass the same person causing  serious damage to the victim. Bullying can be physical or verbal but are both meant to harm the person or people. Bullying and Cyberbullying should <b>not</b> be taken lightly. As the old saying goes, "You see something, Say Something".</p>
 
 <h1>
@@ -33,3 +33,4 @@ Why do kids/teens bully?
 
 <h2> How to Stop Bullying
 </h2>
+--->
