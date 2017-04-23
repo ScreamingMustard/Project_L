@@ -1,8 +1,7 @@
 <!DOCTYPE>
 <html>
 <body> 
-<title> Stress </title>
-<h1> </h1>
+<h1> Stress</h1>
 <p> Just like adults teens suffer from stress as well. At least nine out of ten tens feel stressed everyday! That's a lot.<br> <br> 
 <h1> Why So Stressed Out?
 </h1>
