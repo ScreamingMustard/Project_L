@@ -2,7 +2,7 @@
 <html>
 <body> 
 <h1> Stress</h1>
-<p> Just like adults teens suffer from stress as well. At least nine out of ten tens feel stressed everyday! That's a lot.<br> <br> 
+<p> Just like adults teens suffer from stress as well. At least nine out of ten teens feel stressed everyday! That's a lot.<br> <br> 
 <h1> Why So Stressed Out?
 </h1>
 <p> Stress can be from pressure or anxiety, you never know what could go inside a teeanger's mind. A few people believe that teens overact with their problems but they actually are not. Without knowing it teens put a lot of pressureon themselves to look, behave, and dress a certain way. Stress can become a burden and fester inside you making you just want to give in or run away from the problem that's bothering you. It's the same for teens, they feel the same way when dealing with stress or anxiety. </p>
@@ -38,3 +38,7 @@ Why do kids/teens bully?
 <div style="color:#0000F">
 <h1> Teen Bullying </h1>
 </div>
+<h2> What is bullying?</h2>
+<p> Bullying is the use of superior strength or influence to intimidate (someone) typically to force him/her to do what they want. Bullying can be physical (pushing, shoving, punching, kicking etc;) or verbal (saying anything hurtful unkind, making the other person feel intimated, scared, alone, lost etc;). </p>
+<h3> Why do Teens/Kids Bully Each Other</h3>
+There are many of excuses people can come up with for why teens and kids bully each other but the main two reasons are power of someone
